@@ -1,0 +1,23 @@
+{
+    "admin": {
+        "password": "123456",
+        "role": "Admin",
+        "name": "Quản Trị Viên",
+        "class": "Ban Huấn Luyện",
+        "status": "approved"
+    },
+    "nguyenvana": {
+        "password": "123456",
+        "role": "Swimmer",
+        "name": "Nguyễn Văn A",
+        "class": "Bơi 1",
+        "status": "approved"
+    },
+    "nguyenvanb": {
+        "password": "123456",
+        "role": "Swimmer",
+        "name": "Nguyễn Văn B",
+        "class": "Bơi 1",
+        "status": "approved"
+    }
+}
